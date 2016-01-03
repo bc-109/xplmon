@@ -3,7 +3,7 @@
 
 #===============================================================================
 # C.A.S.A. - Corsican Automation Systems & Applications
-# (c) 2011 by Toussaint OTTAVI, bc-109 Soft (t.ottavi@bc-109.com)
+# (c) 2011 by Toussaint OTTAVI, bc-109 Soft (t.ottavi@bc-109.com) 
 #===============================================================================
 #
 #   xplmon : simple XPL monitor based on Twisted
@@ -26,7 +26,6 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 #===============================================================================
-
 
 #===============================================================================
 # Version numbering 
